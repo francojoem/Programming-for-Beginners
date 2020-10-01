@@ -1166,6 +1166,8 @@ print(text + name)
 
 <span class="c6 c4">print("done") --- after the loop is done this line is executed. Notice that the indentation separates this line from the while loop.</span>
 
+<span class="c6 c4">Unlike traditional while loops, You can also include an else part for the while loops in python which will be executed once when loop condition is false</span>
+
 <span class="c6 c4"></span>
 
 <span class="c6 c4"></span>
@@ -1227,6 +1229,8 @@ print(text + name)
 <span class="c6 c4">I hope there’s no need of further explanation for this. What this will do is print 0-4 on separate lines and then print Done.</span>
 
 <span class="c6 c4">You can use i just as a variable, but only within the for loop (intended part after : till end of information)</span>
+
+<span class="c6 c4">Same as while loops, for loops can also have an optional else block.</span>
 
 <span class="c6 c4"></span>
 
