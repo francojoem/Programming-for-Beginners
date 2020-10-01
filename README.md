@@ -1,14 +1,33 @@
 # <span class="c6 c22">Programming For Beginners</span>
 
 
-* <span class="c21">[What exactly is programming?](#h.qripscf3vevn)</span>
+* <span class="c21">[What exactly is programming?](https://hackr.io/blog/what-is-programming)
+>Programming is a way to “instruct the computer to perform various tasks”.
+ Programming is the process of creating a set of instructions that tell a computer how to perform a task. Programming can be done using a variety of computer programming languages, such as JavaScript, Python, and C++.
+ 
+</span>
 
-* <span class="c7">[What are the programming languages?](#h.coxk854iofjj)</span>
+* <span class="c7">[What are the programming languages?](https://en.wikipedia.org/wiki/List_of_programming_languages)
+>A programming language is a set of commands, instructions, and other syntax use to create a software program. Languages that programmers use to write code are called "high-level languages." This code can be compiled into a "low-level language," which is recognized directly by the computer hardware.
 
-  * <span class="c0">[How programming languages are made?](#h.8t82l2hr0kb6)</span>
+</span>
+
+  * <span class="c0">[How programming languages are made?](https://www.quora.com/How-does-one-create-a-programming-language#:~:text=The%20origin%20of%20a%20programming,the%20actual%20code%20being%20written.)
+>The origin of a programming language is pretty simple: a programmer somewhere notices that she or he is writing the same patterns over and over.
+
+>The programmer realizes that the way they are thinking about programs is conceptually abstract and powerful in a way that isn't evident in the actual code being written. So the programmer thinks to themselves: "What is the core essence of the ideas I am expressing in code? And how can I represent those ideas in a way that is simpler, more succinct, and easier to see what is going on?"
+
+>This conceptual simplification, and a strategy for expressing it in words and symbols, becomes the germ of an idea for a new language.
+
+</span>
   
 
-* <span class="c7">[Why learn Python?](#h.w1y22vcvgnk9)</span>
+* <span class="c7">[Why learn Python?](https://www.codingdojo.com/blog/why-you-should-learn-python#:~:text=Python%20is%20one%20of%20the,%2C%20and%20object%2Doriented%20features.&text=Although%20it's%20a%20high%2Dlevel,and%20has%20a%20clean%20syntax.)
+### [StackOverflow Survey](https://insights.stackoverflow.com/survey/2018/#most-loved-dreaded-and-wanted)
+ 
+![img survey](https://www.stxnext.com/hs-fs/hubfs/stack_overflow_developer_survey_2018_-_most_wanted.png__697x490_q85_crop_subsampling-2_upscale.png?width=697&name=stack_overflow_developer_survey_2018_-_most_wanted.png__697x490_q85_crop_subsampling-2_upscale.png)
+
+</span>
 
 * <span class="c21">[Your first program](#h.f5n95ap7ltqg)</span>
 
