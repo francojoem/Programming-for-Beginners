@@ -1166,7 +1166,30 @@ print(text + name)
 
 <span class="c6 c4">print("done") --- after the loop is done this line is executed. Notice that the indentation separates this line from the while loop.</span>
 
-<span class="c6 c4">Unlike traditional while loops, You can also include an else part for the while loops in python which will be executed once when loop condition is false</span>
+<span class="c6 c4">Unlike traditional while loops, You can also include an else part for the while loops in python which will be executed once when loop condition is false. See an example below</span>
+
+<span class="c6 c4">counter = 0</span>
+
+<span class="c6 c4">while counter < 3:</span>
+
+<span class="c6 c4">   print("Inside loop")</span>
+
+<span class="c6 c4">   counter = counter + 1</span>
+
+<span class="c6 c4">else:</span>
+
+<span class="c6 c4">   print("Inside else")</span>
+
+
+<span class="c6 c4">Output</span>
+
+<span class="c6 c4">Inside loop</span>
+
+<span class="c6 c4">Inside loop</span>
+
+<span class="c6 c4">Inside loop</span>
+
+<span class="c6 c4">Inside else</span>
 
 <span class="c6 c4"></span>
 
@@ -1230,7 +1253,27 @@ print(text + name)
 
 <span class="c6 c4">You can use i just as a variable, but only within the for loop (intended part after : till end of information)</span>
 
-<span class="c6 c4">Same as while loops, for loops can also have an optional else block.</span>
+<span class="c6 c4">Same as while loops, for loops can also have an optional else block. See an example below</span>
+
+<span class="c6 c4">for i in range(3):</span>
+
+<span class="c6 c4">   print("Inside loop")</span>
+
+<span class="c6 c4">else:</span>
+
+<span class="c6 c4">   print("Inside else")</span>
+
+<span class="c6 c4">Output</span>
+
+<span class="c6 c4">Inside loop</span>
+
+<span class="c6 c4">Inside loop</span>
+
+<span class="c6 c4">Inside loop</span>
+
+<span class="c6 c4">Inside else</span>
+
+
 
 <span class="c6 c4"></span>
 
