@@ -4,12 +4,10 @@
 * <span class="c21">[What exactly is programming?](https://hackr.io/blog/what-is-programming)
 >Programming is a way to “instruct the computer to perform various tasks”.
  Programming is the process of creating a set of instructions that tell a computer how to perform a task. Programming can be done using a variety of computer programming languages, such as JavaScript, Python, and C++.
- 
-</span>
+ </span>
 
 * <span class="c7">[What are the programming languages?](https://en.wikipedia.org/wiki/List_of_programming_languages)
 >A programming language is a set of commands, instructions, and other syntax use to create a software program. Languages that programmers use to write code are called "high-level languages." This code can be compiled into a "low-level language," which is recognized directly by the computer hardware.
-
 </span>
 
   * <span class="c0">[How programming languages are made?](https://www.quora.com/How-does-one-create-a-programming-language#:~:text=The%20origin%20of%20a%20programming,the%20actual%20code%20being%20written.)
@@ -18,7 +16,6 @@
 >The programmer realizes that the way they are thinking about programs is conceptually abstract and powerful in a way that isn't evident in the actual code being written. So the programmer thinks to themselves: "What is the core essence of the ideas I am expressing in code? And how can I represent those ideas in a way that is simpler, more succinct, and easier to see what is going on?"
 
 >This conceptual simplification, and a strategy for expressing it in words and symbols, becomes the germ of an idea for a new language.
-
 </span>
   
 
@@ -26,14 +23,32 @@
 ### [StackOverflow Survey](https://insights.stackoverflow.com/survey/2018/#most-loved-dreaded-and-wanted)
  
 ![img survey](https://www.stxnext.com/hs-fs/hubfs/stack_overflow_developer_survey_2018_-_most_wanted.png__697x490_q85_crop_subsampling-2_upscale.png?width=697&name=stack_overflow_developer_survey_2018_-_most_wanted.png__697x490_q85_crop_subsampling-2_upscale.png)
+</span>
+
+* <span class="c21">[Your first program](https://www.programiz.com/python-programming/first-program)
+ 
+>Traditionally the first program you write in any programming language is called a “Hello World” program – a program that simply outputs Hello World to your terminal. Let's write one using Python.
+
+ ![hellow world](https://djangocentral.com/wp-content/uploads/2019/01/py-5.png)
+</span>
+
+* <span class="c7">[Code your own calculator](#h.uveg6pmwduwl)
+ 
 
 </span>
 
-* <span class="c21">[Your first program](#h.f5n95ap7ltqg)</span>
+* <span class="c7">[Operations in Python](https://www.w3schools.com/python/python_operators.asp)
+>Operators are used to perform operations on variables and values.
 
-* <span class="c7">[Code your own calculator](#h.uveg6pmwduwl)</span>
+Python divides the operators in the following groups:
 
-* <span class="c7">[Operations in Python](#h.d9xac6lw32v)</span>
+-Arithmetic operators
+-Assignment operators
+-Comparison operators
+-Logical operators
+-Identity operators
+-Membership operators
+-Bitwise operators</span>
 
   * <span class="c0">[Subtraction -](#h.l12es1k8fy53)</span>
 
@@ -588,7 +603,10 @@ print(eval(calculate))
 
 ## <span class="c6 c13">Subtraction -</span>
 
-<span class="c6 c4">Run the same code Type 200-8 and hit enter</span>
+<span class="c6 c4">Following is the syntax of Python Subtraction Arithmetic Operator with two operands.
+
+`result` = `operand_1` - `operand_2`
+where `operand_1` and `operand_2` are numbers and the result is the difference of `operand_2` from `operand_1`.</span>
 
 <span class="c6 c4"></span>
 
@@ -598,7 +616,10 @@ print(eval(calculate))
 
 <span class="c6 c4">For multiplication, we use *(asterisk) arithmetic operator ( +, -, * are also arithmetic operators in python</span>
 
-<span class="c6 c4">Type 8*9 ad hit enter</span>
+<span class="c6 c4">Following is the syntax of Python Multiplication Arithmetic Operator.
+
+`result` = `operand_1` * `operand_2`
+where `operand_1` and `operand_2` are numbers and the result is the product of `operand_1` and `operand_2`.</span>
 
 <span class="c6 c4"></span>
 
