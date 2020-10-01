@@ -28,61 +28,13 @@
 * <span class="c21">[Your first program](https://www.programiz.com/python-programming/first-program)
  
 >Traditionally the first program you write in any programming language is called a “Hello World” program – a program that simply outputs Hello World to your terminal. Let's write one using Python.
+
  ![hellow world](https://djangocentral.com/wp-content/uploads/2019/01/py-5.png)
 </span>
 
 * <span class="c7">[Code your own calculator](#h.uveg6pmwduwl)
  
-```python
-# Program make a simple calculator
 
-# This function adds two numbers
-def add(x, y):
-    return x + y
-
-# This function subtracts two numbers
-def subtract(x, y):
-    return x - y
-
-# This function multiplies two numbers
-def multiply(x, y):
-    return x * y
-
-# This function divides two numbers
-def divide(x, y):
-    return x / y
-
-
-print("Select operation.")
-print("1.Add")
-print("2.Subtract")
-print("3.Multiply")
-print("4.Divide")
-
-while True:
-    # Take input from the user
-    choice = input("Enter choice(1/2/3/4): ")
-
-    # Check if choice is one of the four options
-    if choice in ('1', '2', '3', '4'):
-        num1 = float(input("Enter first number: "))
-        num2 = float(input("Enter second number: "))
-
-        if choice == '1':
-            print(num1, "+", num2, "=", add(num1, num2))
-
-        elif choice == '2':
-            print(num1, "-", num2, "=", subtract(num1, num2))
-
-        elif choice == '3':
-            print(num1, "*", num2, "=", multiply(num1, num2))
-
-        elif choice == '4':
-            print(num1, "/", num2, "=", divide(num1, num2))
-        break
-    else:
-        print("Invalid Input")
-```
 </span>
 
 * <span class="c7">[Operations in Python](https://www.w3schools.com/python/python_operators.asp)
@@ -651,7 +603,10 @@ print(eval(calculate))
 
 ## <span class="c6 c13">Subtraction -</span>
 
-<span class="c6 c4">Run the same code Type 200-8 and hit enter</span>
+<span class="c6 c4">Following is the syntax of Python Subtraction Arithmetic Operator with two operands.
+
+`result` = `operand_1` - `operand_2`
+where `operand_1` and `operand_2` are numbers and the result is the difference of `operand_2` from `operand_1`.</span>
 
 <span class="c6 c4"></span>
 
@@ -661,7 +616,10 @@ print(eval(calculate))
 
 <span class="c6 c4">For multiplication, we use *(asterisk) arithmetic operator ( +, -, * are also arithmetic operators in python</span>
 
-<span class="c6 c4">Type 8*9 ad hit enter</span>
+<span class="c6 c4">Following is the syntax of Python Multiplication Arithmetic Operator.
+
+`result` = `operand_1` * `operand_2`
+where `operand_1` and `operand_2` are numbers and the result is the product of `operand_1` and `operand_2`.</span>
 
 <span class="c6 c4"></span>
 
